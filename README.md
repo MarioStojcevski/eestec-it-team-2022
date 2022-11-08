@@ -28,6 +28,7 @@ Finally, there is `Code from IT sessions` folder. In <span style="color:red; fon
 
 <br/>
 
-# How can I contribute
+# How can I contribute?
 
 Contact your IT Coordinator for details to gain access rights to the repo, or if you have any questions about how to use `git` or where to place your `code`.
+

@@ -1,16 +1,15 @@
 <div align="center">
 <a href="https://www.eestec.mk">
-    <img style="background-color: red; border-radius: 200px" width="400" alt="eestec logo" src="https://eestec.mk/wp-content/uploads/2019/08/LOGO-LC-Skopje-WHITE.png" />
+    <img style="background-color: red; border-radius: 200px" width="200" alt="eestec logo" src="https://eestec.mk/wp-content/uploads/2019/08/LOGO-LC-Skopje-WHITE.png" />
 </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
     <h1>Welcome EESTECer</h1>
     <p>This private repository is built by us to help everyone at the Local Committe of Skopje practice and revise their coding skills. If you are reading this, then you are added to list of secret coding agents to help the world. The idea is to spread solutions of coding problems and practice.</p>
 </div>
-<br/>
 <br/>
 
 # How is this project structured?
@@ -27,7 +26,6 @@ In the `University Exercises` folder you will find folders like `Algorithms and 
 
 Finally, there is `Code from IT sessions` folder. In <span style="color:red; font-weight: bold">EESTEC LC Skopje</span> we have a weekly meeting facilitated by the IT Coordinator from the current year. All the code from those sessions will be here.
 
-<br/>
 <br/>
 
 # How can I contribute

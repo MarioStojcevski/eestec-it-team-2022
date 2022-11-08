@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.eestec.mk">
-    <img style="background-color: red; border-radius: 20px" width="200" alt="eestec logo" src="./logo.png" />
+    <img style="border-radius: 20px; border: 0.3px solid black" width="200" alt="eestec logo" src="./logo.jpeg" />
 </a>
 </div>
 

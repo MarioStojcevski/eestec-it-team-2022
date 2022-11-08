@@ -32,3 +32,6 @@ Finally, there is `Code from IT sessions` folder. In <span style="color:red; fon
 
 Contact your IT Coordinator for details to gain access rights to the repo, or if you have any questions about how to use `git` or where to place your `code`.
 
+# Code of conduct
+
+Please be aware that we are not supporting plagiarism at universities. We have weekly meetings, solve problems and upload the code here. We do not solve ongoing laboratory excersies and spread the code to students. Anyone suspected of doing such thing is not following our code of conduct and will not be considered a part of the team.

@@ -160,13 +160,7 @@ class DLL<E> {
 
 }
 
-// 7
-// 1 2 3 0 4 5 6
-// 2 3
-// 4 5
-
-// a=2, b=3, c=4, d=5
-public class DLLVojska {
+public class Vojska {
 
     public static DLL<Integer> vojska(DLL<Integer> lista, int a, int b, int c, int d){
         DLL<Integer> result = new DLL<>();

@@ -1,4 +1,4 @@
-//Палиндром Problem 1 (3 / 5)
+//        Палиндром Problem 1 (3 / 5)
 //        Дадена е двојно поврзана листа со N јазли каде секој јазел содржи по еден карактер (буква).
 //        Да се провери дали двојно поврзаната листа е палиндром: односно ако ја изминете од почеток
 //        до крај и од крај до почеток, дали ќе добиете ист збор. Во првиот ред од влезот даден е
@@ -147,7 +147,7 @@ class DLL<E> {
 
 }
 
-public class PalindromeDLL {
+public class Palindrome {
 
     public static int palindrome(DLL<String> lista) {
         DLLNode<String> startNode = lista.getFirst();
@@ -171,9 +171,6 @@ public class PalindromeDLL {
         DLL<String> lista = new DLL<>();
         int n = Integer.parseInt(br.readLine());
         String[] line = br.readLine().split(" ");
-//        for (int i = 0; i < line.length; i++) {
-//
-//        }
         for (String character : line) {
             lista.insertLast(character);
         }

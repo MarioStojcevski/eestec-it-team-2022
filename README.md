@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.eestec.mk">
-    <img style="background-color: red; border-radius: 200px" width="200" alt="eestec logo" src="https://eestec.mk/wp-content/uploads/2019/08/LOGO-LC-Skopje-WHITE.png" />
+    <img style="background-color: red; border-radius: 20px" width="200" alt="eestec logo" src="./logo.png" />
 </a>
 </div>
 

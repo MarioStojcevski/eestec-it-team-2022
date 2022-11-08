@@ -10,7 +10,6 @@
     <h1>Welcome EESTECer</h1>
     <p>This private repository is built by us to help everyone at the Local Committe of Skopje practice and revise their coding skills. If you are reading this, then you are added to list of secret coding agents to help the world. The idea is to spread solutions of coding problems and practice.</p>
 </div>
-<br/>
 
 # How is this project structured?
 
@@ -25,8 +24,6 @@ In the `Coding solutions` folder you will find folders like `Java`, `Python`, `C
 In the `University Exercises` folder you will find folders like `Algorithms and Data Structures`, `Structural Programming`, `Object Oriented Programming`, `Internet Programming`... These folders serve as a database of exercise solutions. When you are ready to contribute your code, this is the first folder you want to start with. If it does not fit in the `University Exercises` then you can place your code in the `Coding solutions` folder.
 
 Finally, there is `Code from IT sessions` folder. In <span style="color:red; font-weight: bold">EESTEC LC Skopje</span> we have a weekly meeting facilitated by the IT Coordinator from the current year. All the code from those sessions will be here.
-
-<br/>
 
 # How can I contribute?
 
